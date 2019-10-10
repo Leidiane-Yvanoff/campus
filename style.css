@@ -2,7 +2,7 @@
 
 body {
     margin: 0;
-    font-family: 'Montserrat', sans-serif;
+    
 
 }
 .navbar {
@@ -26,11 +26,16 @@ nav a {
    
     z-index: 6;
 }
+h1, h2{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
 .hero {
     background-image: url(https://picsum.photos/id/1/5616/3744);
      background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
+    background-attachment: fixed;
     height: 500px;
     z-index: -6;
     color: white;
@@ -123,6 +128,7 @@ i {
     border-bottom: 2px #f99797 solid;
     padding-bottom: 15px;
     padding-top: 15px;
+    box-shadow: 
     
 
 }

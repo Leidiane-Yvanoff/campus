@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
+/* general */
+
+html {
+    width: 100%;
+}
+
+img {
+     max-width: 100%;
+}
+
+p,h1,h2,h3,h4,h5 {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+/* introduction */
+
+.intro {
+    padding: 100px;
+}
+
+/* Présentation de la WCS */
+.wcs {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+
+.prez {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.campus {
+    padding: 50px;
+}
+
+#ecosystem {
+    padding-left: 135px
+}
+
+
+/* Slider */
+
+#wilcome {
+    padding: 50px;
+}
+
+.slider {
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-top: 100px
+}
+
+.slider h3 {
+    width: 100%;
+    margin : auto;
+    z-index: 200;
+}
+
+/* Témoignages de wilders */
+
+.testimonials {
+    padding: 100px;
+}
+
+
+.testimonials img {
+    border-radius: 50%;
+    width: 100px;
+    margin-left: 75px;
+    padding: 10px;
+}
+
+#texttestimonials {
+    padding-bottom: 50px;
+}
+footer {
+    display: flex;
+    justify-content: space-around;
+    font-size: 12px;
+    background-color: #f99797;
+    color: white;
+    padding: 20px;
+    margin-top: auto;
+
+
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+
+}
+
+footer li {
+    padding-bottom: 10px;
+}
+
+.navbar-footer {
+    display: flex;
+    justify-content: space-around;
+}
+
+/* Media query */
+@media screen and (max-width: 612px) {
+    .navbar-footer {
+        display: block;
+        text-align: center;
+    }
+
+ 
+  
+    footer {
+        flex-direction: column;
+        align-items: center;
+    } 
+
+}
