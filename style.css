@@ -32,13 +32,21 @@ h1, h2{
 }
 .hero {
     background-image: url(https://picsum.photos/id/1/5616/3744);
-     background-position: center;
+    background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
     height: 500px;
     z-index: -6;
     color: white;
+}
+.photoContact {
+    background-color: ('img/contact.jpg') ;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 500px;
 }
 
 .title-border {
