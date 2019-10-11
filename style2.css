@@ -20,6 +20,23 @@ p,h1,h2,h3,h4,h5 {
 .intro {
     padding: 100px;
 }
+.navbar {
+    color: black;
+}
+
+/* style NAV */
+.navbar {
+    background: #F0F2F4;
+}
+
+.navbar-brand .brand-text {
+    font-size: 14px;
+    font-weight: bold;
+}
+nav a {
+    color: black;
+    z-index: 20;
+}
 
 /* Présentation de la WCS */
 .wcs {
@@ -62,15 +79,18 @@ p,h1,h2,h3,h4,h5 {
 
 /* Témoignages de wilders */
 
-.testimonials {
-    padding: 100px;
+
+
+.avatar {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
-
-
 .testimonials img {
+
     border-radius: 50%;
     width: 100px;
-    margin-left: 75px;
+  
     padding: 10px;
 }
 
