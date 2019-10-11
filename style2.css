@@ -19,6 +19,19 @@ h5 {
     font-family: 'Montserrat', sans-serif;
     text-align: center;
 }
+.h3 {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 2Opx;
+    border-bottom: 2px #f99797 solid;
+    padding-bottom: 15px;
+    padding-top: 15px;
+  
+    
+
+}
 
 /* introduction */
 
@@ -59,9 +72,6 @@ nav a {
     padding: 50px;
 }
 
-#ecosystem {
-    padding-left: 135px
-}
 
 
 /* Slider */
