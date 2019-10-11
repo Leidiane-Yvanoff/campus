@@ -46,10 +46,8 @@ nav a {
 }
 
 /* Présentation de la WCS */
-.wcs {
-    padding-top: 50px;
-    padding-bottom: 50px;
-}
+
+
 
 
 .prez {
@@ -84,21 +82,24 @@ nav a {
     z-index: 200;
 }
 
-/* Témoignages de wilders */
-
-
+/* temoignage */
 
 .avatar {
     display: flex;
     flex-direction: column;
     align-items: center;
-  
-}
-.avatar img {
-    border-radius: 40%;
-    width: 80px;
+    margin-bottom: 100px;
 }
 
+.avatar img {
+    margin-bottom: 30px;
+}
+
+.testimonials img {
+
+    border-radius: 50%;
+    width: 100px;
+}
 
 #texttestimonials {
     padding-bottom: 50px;
@@ -112,8 +113,6 @@ footer {
     color: white;
     padding: 20px;
     margin-top: auto;
-
-
 }
 
 footer a {
@@ -121,8 +120,6 @@ footer a {
     text-decoration: none;
 
 }
-
-
 
 footer li {
     padding-bottom: 10px;
@@ -132,6 +129,7 @@ footer li {
     display: flex;
     justify-content: space-around;
 }
+
 
 /* Media query */
 @media screen and (max-width: 612px) {

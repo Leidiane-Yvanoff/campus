@@ -92,15 +92,7 @@ footer li {
     text-align: justify;
 
 }
-.photoContact {
-    
-    background-image('img/contact.jpg');
-    background-repeat: no-repeat;
-    background-size:contain;
-    background-position: center;
-    width: 100%;
 
-}
 
 i {
     padding-bottom: 40px;
