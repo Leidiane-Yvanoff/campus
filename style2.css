@@ -7,10 +7,15 @@ html {
 }
 
 img {
-     max-width: 100%;
+    max-width: 100%;
 }
 
-p,h1,h2,h3,h4,h5 {
+p,
+h1,
+h2,
+h3,
+h4,
+h5 {
     font-family: 'Montserrat', sans-serif;
     text-align: center;
 }
@@ -20,6 +25,7 @@ p,h1,h2,h3,h4,h5 {
 .intro {
     padding: 100px;
 }
+
 .navbar {
     color: black;
 }
@@ -33,6 +39,7 @@ p,h1,h2,h3,h4,h5 {
     font-size: 14px;
     font-weight: bold;
 }
+
 nav a {
     color: black;
     z-index: 20;
@@ -73,7 +80,7 @@ nav a {
 
 .slider h3 {
     width: 100%;
-    margin : auto;
+    margin: auto;
     z-index: 200;
 }
 
@@ -85,18 +92,18 @@ nav a {
     display: flex;
     flex-direction: column;
     align-items: center;
-}
-.testimonials img {
-
-    border-radius: 50%;
-    width: 100px;
   
-    padding: 10px;
 }
+.avatar img {
+    border-radius: 40%;
+    width: 80px;
+}
+
 
 #texttestimonials {
     padding-bottom: 50px;
 }
+
 footer {
     display: flex;
     justify-content: space-around;
@@ -115,6 +122,8 @@ footer a {
 
 }
 
+
+
 footer li {
     padding-bottom: 10px;
 }
@@ -131,11 +140,11 @@ footer li {
         text-align: center;
     }
 
- 
-  
+
+
     footer {
         flex-direction: column;
         align-items: center;
-    } 
+    }
 
 }
