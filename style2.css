@@ -19,17 +19,17 @@ h5 {
     font-family: 'Montserrat', sans-serif;
     text-align: center;
 }
-.h3 {
+
+.h2 {
     display: flex;
     justify-content: center;
-    margin: 0 auto;
     text-align: center;
-    font-size: 2Opx;
-    border-bottom: 2px #f99797 solid;
-    padding-bottom: 15px;
-    padding-top: 15px;
-  
-    
+    font-size: 38px;
+    color:white;
+    letter-spacing: 5px;
+    background-color: rgba(0, 0, 0, 0.26);
+ 
+
 
 }
 
