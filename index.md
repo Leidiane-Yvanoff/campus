@@ -1,4 +1,4 @@
-
+<!-- <!DOCTYPE html>
 <html lang="fr">
 
 <head>
@@ -13,10 +13,10 @@
     <link rel="stylesheet" type="text/css" href="style2.css">
     <link rel="stylesheet" type="text/css" href="bootstrap.min.css">
 </head>
-<!--<a href="https://icons8.com/icon/42201/en-cours">En cours icon by Icons8</a>-->
+<a href="https://icons8.com/icon/42201/en-cours">En cours icon by Icons8</a>
 
 <body>
-    <header>
+    <header> -->
 
 
         <nav class="navbar navbar-expand-lg bg-white">
