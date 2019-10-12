@@ -95,12 +95,12 @@
   
             <div class="col-md-12 col-lg-4">
                 <img src="img/insertion.jpg" alt="insertion professionnelle">
-                <p>Un fort taux d'insertion professionnelle (90%)</p>
+                <p class="mt-4">Un fort taux d'insertion professionnelle (90%)</p>
             </div>
 
             <div class="col-md-12 col-lg-4">
                 <img src="img/locaux.jpg" alt="locaux">
-                <p>Une formation en présentiel de 5 mois + 2 à 3 mois en entreprise</p>
+                <p class="mt-4">Une formation en présentiel de 5 mois + 2 à 3 mois en entreprise</p>
             </div>
         </div>
         </div>
